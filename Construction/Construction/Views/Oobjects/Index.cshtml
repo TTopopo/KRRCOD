@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Construction.Models.Oobject>
+
+@{
+    ViewData["Title"] = "Список";
+}
+
+<h1>Объекты</h1>
+@if (User.IsInRole("admin") || User.IsInRole("guest"))
+{
+    <p>
+        <a asp-action="Create">Создать новую запись</a>
+    </p>
+    <div>
+        <a asp-action="GetReport">Сохранить</a>
+    </div>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                Прораб
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photo)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Foremen.Name)
+                    @Html.DisplayFor(modelItem => item.Foremen.LastName) 
+                </td>
+                <td>
+                    @if (ViewBag.Photos.ContainsKey(item.OobjectID))
+                    {
+                        <img class="mt-4 mb-4" width="100"
+                             src="data:image/jpg;base64,@(Convert.ToBase64String(ViewBag.Photos[item.OobjectID]))">
+                    }
+
+                </td>
+                @if (User.IsInRole("admin")){ 
+            <td>
+
+                    <a asp-action="Edit" asp-route-id="@item.OobjectID">Редактировать</a> |
+                    <a asp-action="Details" asp-route-id="@item.OobjectID">Подробности</a> |
+                    <a asp-action="Delete" asp-route-id="@item.OobjectID">Удалить</a>
+            </td>
+                }
+                else if (  User.IsInRole("guest"))
+                {
+                    <td>
+                        
+                        <a asp-action="Details" asp-route-id="@item.OobjectID">Подробности</a>  
+                    </td>
+                }
+                else 
+                { 
+                <td>
+                         
+                        <a asp-action="Details" asp-route-id="@item.OobjectID">Подробности</a>  
+                    </td>
+                }
+        </tr>
+}
+    </tbody>
+</table>

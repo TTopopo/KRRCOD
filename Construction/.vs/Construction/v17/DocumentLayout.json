@@ -1,0 +1,558 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Construction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\oobjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\oobjects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\areas\\identity\\data\\constructionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\areas\\identity\\data\\constructionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\controllers\\oobjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\controllers\\oobjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\controllers\\foremenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\controllers\\foremenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\models\\oobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\models\\oobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\oobjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\oobjects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\oobjects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\oobjects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\oobjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\oobjects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\models\\foremen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\models\\foremen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\workers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\workers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\workers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\workers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\workers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\workers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\workers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\workers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\oobjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\oobjects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|c:\\construction\\construction\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{197B9E3F-2102-402A-8A7A-D7221C268DA5}|Construction\\Construction.csproj|solutionrelative:construction\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:00:52.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Construction\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Construction\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAADwv5EAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:02:09.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Construction\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:19:24.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Construction\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:19:45.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Construction\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Construction\\Construction\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Construction\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:40:17.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Oobjects\\Index.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Oobjects\\Index.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Oobjects\\Index.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Oobjects\\Index.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:01:54.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConstructionUser.cs",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Areas\\Identity\\Data\\ConstructionUser.cs",
+              "RelativeDocumentMoniker": "Construction\\Areas\\Identity\\Data\\ConstructionUser.cs",
+              "ToolTip": "C:\\Construction\\Construction\\Areas\\Identity\\Data\\ConstructionUser.cs",
+              "RelativeToolTip": "Construction\\Areas\\Identity\\Data\\ConstructionUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:06:54.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForemensController.cs",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Controllers\\ForemensController.cs",
+              "RelativeDocumentMoniker": "Construction\\Controllers\\ForemensController.cs",
+              "ToolTip": "C:\\Construction\\Construction\\Controllers\\ForemensController.cs",
+              "RelativeToolTip": "Construction\\Controllers\\ForemensController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:40:48.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OobjectsController.cs",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Controllers\\OobjectsController.cs",
+              "RelativeDocumentMoniker": "Construction\\Controllers\\OobjectsController.cs",
+              "ToolTip": "C:\\Construction\\Construction\\Controllers\\OobjectsController.cs",
+              "RelativeToolTip": "Construction\\Controllers\\OobjectsController.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:23:42.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:20:31.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:26:12.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Construction\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Construction\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T20:26:23.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Oobject.cs",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Models\\Oobject.cs",
+              "RelativeDocumentMoniker": "Construction\\Models\\Oobject.cs",
+              "ToolTip": "C:\\Construction\\Construction\\Models\\Oobject.cs",
+              "RelativeToolTip": "Construction\\Models\\Oobject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:41:12.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:15:49.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Controllers\\WorkersController.cs",
+              "RelativeDocumentMoniker": "Construction\\Controllers\\WorkersController.cs",
+              "ToolTip": "C:\\Construction\\Construction\\Controllers\\WorkersController.cs",
+              "RelativeToolTip": "Construction\\Controllers\\WorkersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:13:21.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Oobjects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Oobjects\\Edit.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Oobjects\\Edit.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Oobjects\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:54:44.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Oobjects\\Details.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Oobjects\\Details.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Oobjects\\Details.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Oobjects\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:54:55.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Construction\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:19:05.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Oobjects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Oobjects\\Delete.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Oobjects\\Delete.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Oobjects\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:56:38.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Construction\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:19:01.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Construction\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:18:59.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Foremen.cs",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Models\\Foremen.cs",
+              "RelativeDocumentMoniker": "Construction\\Models\\Foremen.cs",
+              "ToolTip": "C:\\Construction\\Construction\\Models\\Foremen.cs",
+              "RelativeToolTip": "Construction\\Models\\Foremen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:20:56.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Construction\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:13:12.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Workers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Workers\\Edit.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Workers\\Edit.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Workers\\Edit.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:09:24.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Workers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Workers\\Delete.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Workers\\Delete.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Workers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:09:14.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Workers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Workers\\Index.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Workers\\Index.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Workers\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:09:46.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "Construction\\Models\\Worker.cs",
+              "ToolTip": "C:\\Construction\\Construction\\Models\\Worker.cs",
+              "RelativeToolTip": "Construction\\Models\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:20:46.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Oobjects\\Create.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Oobjects\\Create.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Oobjects\\Create.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Oobjects\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:01:57.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T18:50:47.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Workers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Workers\\Details.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Workers\\Details.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Workers\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T19:09:20.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Construction\\Construction\\Views\\Workers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Construction\\Views\\Workers\\Create.cshtml",
+              "ToolTip": "C:\\Construction\\Construction\\Views\\Workers\\Create.cshtml",
+              "RelativeToolTip": "Construction\\Views\\Workers\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T18:44:57.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
